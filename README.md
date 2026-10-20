@@ -1,6 +1,6 @@
 ## Hi I am Bảo 
 -🌱 Learning Git & GitHub
--📫 Contact: kimbao0309@gmail.com
+-📫 Contact:
 
 <!--
 **baonguyenkim0309/baonguyenkim0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
